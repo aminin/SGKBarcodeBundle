@@ -1,5 +1,8 @@
 # SGKBarcodeBundle
 
+Q: dafaq?
+A: This is a copy of abandoned [sgk/barcode-bundle](https://packagist.org/packages/sgk/barcode-bundle)
+
 [![Build Status](https://travis-ci.org/shangguokan/SGKBarcodeBundle.svg)](https://travis-ci.org/shangguokan/SGKBarcodeBundle)
 [![Latest Stable Version](https://poser.pugx.org/sgk/barcode-bundle/v/stable)](https://packagist.org/packages/sgk/barcode-bundle) [![Total Downloads](https://poser.pugx.org/sgk/barcode-bundle/downloads)](https://packagist.org/packages/sgk/barcode-bundle) [![Latest Unstable Version](https://poser.pugx.org/sgk/barcode-bundle/v/unstable)](https://packagist.org/packages/sgk/barcode-bundle) [![License](https://poser.pugx.org/sgk/barcode-bundle/license)](https://packagist.org/packages/sgk/barcode-bundle)
 
